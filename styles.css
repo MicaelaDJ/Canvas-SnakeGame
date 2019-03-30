@@ -1,0 +1,11 @@
+canvas {
+  background-color: #fad6a5;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+}
